@@ -1,0 +1,58 @@
+{
+  "activity_logs": {
+    "message": "success",
+    "data": [
+      {
+        "id": 1,
+        "activity": "Received new inventory",
+        "datetime": "2022-08-20T10:30:00"
+      },
+      {
+        "id": 2,
+        "activity": "Updated inventory levels",
+        "datetime": "2022-08-21T09:00:00"
+      },
+      {
+        "id": 3,
+        "activity": "Performed inventory audit",
+        "datetime": "2022-08-22T15:15:00"
+      },
+      {
+        "id": 4,
+        "activity": "Placed order for restocking",
+        "datetime": "2022-08-23T08:45:00"
+      },
+      {
+        "id": 5,
+        "activity": "Created new product listings",
+        "datetime": "2022-08-24T17:00:00"
+      },
+      {
+        "id": 6,
+        "activity": "Reorganized inventory shelving",
+        "datetime": "2022-08-25T12:00:00"
+      },
+      {
+        "id": 7,
+        "activity": "Conducted inventory training for staff",
+        "datetime": "2022-08-26T16:30:00"
+      },
+      {
+        "id": 8,
+        "activity": "Checked inventory for expired items",
+        "datetime": "2022-08-27T14:00:00"
+      },
+      {
+        "id": 9,
+        "activity": "Received return from customer",
+        "datetime": "2022-08-28T11:00:00"
+      },
+      {
+        "id": 10,
+        "activity": "Updated inventory management software",
+        "datetime": "2022-08-29T18:45:00"
+      }
+    ],
+    "method": "GET"
+  }
+}

@@ -1,0 +1,117 @@
+// Biometric.vue
+.core-biometric {
+  // child classes here
+}
+.q-gutter-y-md {
+padding-top: 10px;
+max-width: 600px;
+}
+
+.register-card {
+  width: 100%;
+  height: 220px;
+}
+
+.description-icon {
+  background-color: #7582e3;
+  padding: 90px 30px 84px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// AddDevice.vue
+.my-uploader {
+  width: 94%;
+  height: 150px;
+  background-color: #7C4DFF;
+}
+
+// Register.vue
+.lan-icon {
+  background-color: #7582e3;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.device-connection {
+  margin-left: -200px;
+}
+
+.save-device {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// Choose User.vue
+.oopslogo {
+  width: 180px;
+  height: 180px;
+  margin-left: 105px;
+}
+
+.button-fingerprint {
+  ::v-deep span {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  ::v-deep i {
+    font-size: 75px;
+  }
+  height: 160px;
+  width: 160px;
+}
+
+.button-register {
+  height: 10%;
+  width: 90%;
+}
+
+.q-dialog-choose-user{
+  height: 380px;
+}
+
+.choose-button {
+  margin-left: 150px;
+}
+
+//AddUsertoDevice.vue
+.padtopnegamd {
+  margin-top: -15px;
+}
+
+.padtopnegalg {
+  margin-top: -45px;
+}
+
+.tri-button {
+  height: 40px;
+  width: 110px;
+  font-size: 12px;
+}
+
+//BackupDeviceData.vue
+.scrollable-div {
+  height: 500px; /* Set the desired height */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+//BackupDeviceSN.vue
+.marnegatopleft {
+  margin-left: -18px;
+  margin-top: 130px;
+}
+
+.martop {
+  margin-top: 60px;
+}
+
+.backup-check {
+  width: 130px;
+  height: 130px;
+  margin-left: 25px;
+}
+

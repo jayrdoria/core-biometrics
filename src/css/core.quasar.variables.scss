@@ -1,0 +1,55 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+$primary: #ffffff;
+$secondary: #f5f5f5;
+
+$violet-0: #5100c1;
+$violet-1: #6200ea;
+$violet-2: #5e1cee;
+$violet-3: #651fff;
+$violet-4: #641fff;
+$violet-5: #7c4dff;
+$violet-6: #b388ff;
+$violet-7: #d6bcfa;
+$violet-8: #e9d8fd;
+
+
+$accent-0: #2b3347;
+$accent-1: #333c52;
+$accent-2: #707070;
+$accent-3: #8890a3;
+$accent-4: #a7a7a7;
+$accent-5: #d1d1d1;
+$accent-6: #f2f2f2;
+
+$d-primary: #232c40;
+$d-secondary: #1e2639;
+
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f2c037;
+
+$white: #ffffff;
+
+// Breakpoints
+$breakpoint-xl-max: 5120px;
+$breakpoint-xl-min: 2000px;
+$breakpoint-sm-max: 1023px;
+$breakpoint-md-min: 1300px;
+$breakpoint-lg-max: 1919px;
+$breakpoint-lg-min: 1500px;
+$breakpoint-sm-min: 768px;
+$breakpoint-xs-max: 600px;

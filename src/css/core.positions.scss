@@ -1,0 +1,19 @@
+
+.core-fixed-bottom {
+  @media only screen and (max-width: $breakpoint-xs-max) {
+    &.on-mobile {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    }
+
+    &.padding-x-48 {
+      padding: 0 48px;
+    }
+    &.padding-b-24 {
+      padding-bottom: 24px;
+    }
+  }
+
+}
